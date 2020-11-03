@@ -142,7 +142,7 @@ header.masthead {
 .footer {
   text-align: center;
   font-size: 0.9rem;
-  background-color: #eadfc9;
+  background-color: #84c0c6;
 }
 
 /* CV navbar styling */
@@ -333,12 +333,12 @@ header.masthead {
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 0.95rem;
-  color: #dc7646;
+  color: #000;
   letter-spacing: 0.0625em;
 }
-#mainNav .navbar-nav .nav-item .nav-link.active{
+/* #mainNav .navbar-nav .nav-item .nav-link.active{
   color: #DB995A;
-} 
+}  */
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #DB995A;
