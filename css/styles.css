@@ -383,9 +383,12 @@ header.masthead {
 /* Portfolio Grid */
 
 #portfolio .portfolio-item {
+  display: flex;
   max-width: 25rem;
+  height: 50%;
   margin-left: auto;
   margin-right: auto;
+  flex-grow: 1;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
